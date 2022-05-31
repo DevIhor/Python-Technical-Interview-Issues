@@ -5,4 +5,4 @@ In this application you have one Django model `Profile` with relation 1-1 to Dja
 
 So, the task is to add 2 fields to `Profile` model: 
 1) `avatar` - image field that should be available for everyone to see.
-2) `eye_key` - image field that should be available only for current user to see.
+2) `eye_key` - image field that should be available only for current user to see (eye image for authentication).
